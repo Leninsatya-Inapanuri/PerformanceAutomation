@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36193" started-at="2019-03-05T04:55:21Z" finished-at="2019-03-05T04:55:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36193" started-at="2019-03-05T04:55:21Z" finished-at="2019-03-05T04:55:58Z">
+      <class name="performanceTests.Tests">
+        <test-method status="PASS" signature="deviceCreationTestPlan()[pri:0, instance:performanceTests.Tests@1dd02175]" name="deviceCreationTestPlan" duration-ms="25991" started-at="2019-03-05T04:55:21Z" finished-at="2019-03-05T04:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deviceCreationTestPlan -->
+        <test-method status="PASS" signature="userCreationTestPlan()[pri:0, instance:performanceTests.Tests@1dd02175]" name="userCreationTestPlan" duration-ms="10160" started-at="2019-03-05T04:55:47Z" finished-at="2019-03-05T04:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userCreationTestPlan -->
+      </class> <!-- performanceTests.Tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
